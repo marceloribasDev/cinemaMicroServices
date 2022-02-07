@@ -1,0 +1,12 @@
+{
+  "name": "movie-service",
+  "version": "1.0.0",
+  "description": "Provide movie info.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Ribas",
+  "license": "ISC"
+}
